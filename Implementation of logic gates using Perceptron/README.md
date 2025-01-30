@@ -2,13 +2,13 @@
 # Implementing logic gates using a simple perceptron
 ### Logic gates include
 
-####-AND
+#### -AND
 
-####-OR
+#### -OR
 
-####-NOT
+#### -NOT
 
-####-NAND
+#### -NAND
 
-####-XNOR
+#### -XNOR
 
