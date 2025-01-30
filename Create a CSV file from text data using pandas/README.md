@@ -1,0 +1,9 @@
+### Write Python program to write the data given below to a CSV file.
+
+#### SN | Name | Country | Contribution | Year
+
+#### 1 | Linus Torvalds | Finland | Linux Kernel | 1991
+
+#### 2 | Tim Berners-Lee | England | World Wide Web | 1990
+
+#### 3 | Guido van Rossum | Netherlands| Python | 1991
